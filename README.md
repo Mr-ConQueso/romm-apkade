@@ -4,7 +4,7 @@
   <img src=".github/resources/isotipo.png" height="180px" width="auto" alt="romm logo">
 
   <h3 style="font-size: 25px;">
-    A beautiful, powerful, self-hosted ROM manager and player.
+    A beautiful, powerful, self-hosted game manager and player.
   </h3>
 
 [![license-badge-img]][license-badge]
