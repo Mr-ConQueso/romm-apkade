@@ -39,78 +39,9 @@ RomM (ROM Manager) allows you to scan, enrich, browse and play your game collect
 
 To start using RomM, check out the [Quick Start Guide][docs-quick-start-guide] in the docs. If you are having issues with RomM, please review the page for [troubleshooting steps][docs-troubleshooting].
 
-## Contributing
-
-To contribute to RomM, please check [Contribution Guide](./CONTRIBUTING.md).
-
-## Community
-
-Here are a few projects maintained by members of our community. Please note that the RomM team does not regularly review their source code.
-
-### Mobile
-
-- 🔷 [Argosy][argosy-launcher]: Native client for installing and launching games by [@tmgast](https://github.com/tmgast)
-- [romm-ios-app][romm-ios-app]: Native iOS app by [@ilyas-hallak](https://github.com/ilyas-hallak)
-
-### Desktop
-
-- 🔷 [Playnite plugin][playnite-app]: Library plugin for Playnite by [@gantoine](https://github.com/gantoine)
-- [RommBrowser][romm-browser]: Electron client by [@smurflabs](https://github.com/smurflabs)
-- [RetroArch Sync][romm-retroarch-sync]: Sync RetroArch library with RomM by [@Covin90](https://github.com/Covin90)
-- [RomMate][rommate]: Desktop app for browsing your collection by [@brenoprata10](https://github.com/brenoprata10)
-- [romm-client][romm-client]: Desktop client by [@chaun14](https://github.com/chaun14)
-
-### Handhelds
-
-- 🔷 [Grout][grout]: Download client for muOS and NextUI by [@BrandonKowalski](https://github.com/BrandonKowalski)
-- [DeckRommSync][deck-romm-sync]: SteamOS downloader and syncer by [@PeriBluGaming](https://github.com/PeriBluGaming)
-- [SwitchRomM][switch-romm]: Homebrew NRO for Switch by [@Shalasere](https://github.com/Shalasere)
-
-### Other
-
-- [romm-comm][romm-comm-discord-bot]: Discord bot by [@idio-sync](https://github.com/idio-sync)
-- [GGRequestz][ggrequestz]: Game discovery and request tool by [@XTREEMMAK](https://github.com/XTREEMMAK)
-- [Syncthing sync][syncthing-sync]: Small tool to push a Syncthing library to RomM by [@amn-96](https://github.com/amn-96)
-
-[🔷] Official first-party app
-
-Join us on Discord, where you can ask questions, submit ideas, get help, showcase your collection, and discuss RomM with other users.
-
-[![discord-invite-img]][discord-invite]
-
 ## Technical Support
 
-If you have any issues with RomM, please [open an issue](https://github.com/rommapp/romm/issues/new) in this repository.
-
-## Financial Support
-
-Consider supporting the development of this project on Open Collective. All funds will be used to cover the costs of hosting, development, and maintenance of RomM.
-
-[![oc-donate-img]][oc-donate]
-
-## Our Friends
-
-Here are a few projects that we think you might like:
-
-- [EmulatorJS](https://emulatorjs.org/): An embeddable, browser-based emulator
-- [RetroDECK](https://retrodeck.net/): Retro gaming on SteamOS and Linux
-- [ES-DE Frontend](https://es-de.org/): Emulator frontend for Linux, macOS and Windows
-- [Gaseous](https://github.com/gaseous-project/gaseous-server): Another ROM manager with web-based emulator
-- [Retrom](https://github.com/JMBeresford/retrom): A centralized game library/collection management service
-- [Drop](https://droposs.org/): Steam-like experience for DRM-free games
-- [LanCommander](https://lancommander.app/): Digital game platform for PC games
-- [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/): An app for managing ROMs in Steam
-
-<div align="center">
-  <br />
-  <div dir="auto">
-    <a href="https://news.ycombinator.com/item?id=44247964" target="_blank"><img src=".github/resources/hackernews-badge.svg" width="250px" alt="hackernews badge"></a>
-    &nbsp;
-    <a href="https://selfh.st/survey/2025-results/" target="_blank"><img src=".github/resources/selfhst-badge.svg" width="250px" alt="selfh.st badge"></a>
-    &nbsp;
-    <span><img src=".github/resources/aikido-badge.png" alt="Aikido Security Audit Report" height="58" /></span>
-  </div>
-</div>
+If you have any issues with RomM, please [open an issue](https://github.com/Mr-ConQueso/romm-apkade/issues/new) in this repository.
 
 <!-- docs links -->
 
