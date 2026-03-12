@@ -7,11 +7,7 @@
     A beautiful, powerful, self-hosted ROM manager and player.
   </h3>
 
-[![discord-badge-img]][discord-badge]
-[![docs-badge-img]][docs]
 [![license-badge-img]][license-badge]
-[![release-badge-img]][release-badge]
-[![docker-pulls-badge-img]][docker-pulls-badge]
 
   </div>
 </div>
