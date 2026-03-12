@@ -14,20 +14,15 @@
 
 # Overview
 
-RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators.
+RomM-Apkade allows you to scan, enrich, browse and play your game collection (including Android games) with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM-Apkade is a must-have for game-preservation enthusiasts.
 
-## Features
+## New Features
 
-- Scan and enhance your game library with metadata from [IGDB][igdb-api], [Screenscraper][screenscraper-api] and [MobyGames][mobygames-api]
-- Fetch custom artwork from [SteamGridDB][steamgriddb-api]
-- Display your achievements from [Retroachievements][retroachievements-api]
-- Metadata available for [400+ platforms][docs-supported-platforms]
-- Play games directly from the browser using [EmulatorJS][docs-emulatorjs] and [RuffleRS][docs-rufflers]
-- Share your library with friends with limited access and permissions
-- Official apps for [Playnite][playnite-app], [Android][argosy-launcher] and [CFWs][grout]
-- Supports multi-disk games, DLCs, mods, hacks, patches, and manuals
-- Parse and filter by [tags][docs-tag-support] in filenames
-- View, upload, update, and delete games from any modern web browser
+- All the features supported by the [official RomM](https://github.com/rommapp/romm?tab=readme-ov-file#features).
+- Advanced management of Android apks.
+- Play Android games directly from the browser using the [Apkade Server](https://github.com/Mr-ConQueso/APKade).
+- Supports any version of Android from 8.1 to 16.
+- Multiple simultaneous streams and save states
 
 ## Preview
 
